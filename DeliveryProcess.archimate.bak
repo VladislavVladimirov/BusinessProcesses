@@ -355,7 +355,7 @@
           <child xsi:type="archimate:DiagramObject" id="id-1aadd36c837147d4a9c24b21d5381c75" targetConnections="id-37ddb4603259421db4836255ebaaacd3" archimateElement="id-d8df11d400864de4930854f5b69a715c">
             <bounds x="984" y="168" width="121" height="73"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-a5bba5e79e024615bde2630a5b53cced" source="id-1aadd36c837147d4a9c24b21d5381c75" target="id-c6f53513cb194f6fbe454130d769a193" archimateRelationship="id-c5abe8fcac794468ac502c6f8d945c3a">
-              <bendpoint startY="504" endX="-150" endY="6"/>
+              <bendpoint startY="540" endX="-144" endY="2"/>
             </sourceConnection>
             <child xsi:type="archimate:DiagramObject" id="id-930e7eec9f1040279191d096435265b7" archimateElement="id-88694d69ff9c44e7b6ba03156bb22ee2">
               <bounds x="-228" y="24" width="15" height="15"/>
@@ -513,7 +513,7 @@
             </child>
           </child>
         </child>
-        <child xsi:type="archimate:Group" id="id-ae22dd87fbcd4cb4a0a9e1d4f75201a3" name="Ресторан" font="1|Segoe UI|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI" textAlignment="1" imagePosition="3">
+        <child xsi:type="archimate:Group" id="id-ae22dd87fbcd4cb4a0a9e1d4f75201a3" name="Сервис доставки" font="1|Segoe UI|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|-52|3|2|1|34|Segoe UI" textAlignment="1" imagePosition="3">
           <bounds x="36" y="924" width="3817" height="445"/>
           <child xsi:type="archimate:DiagramObject" id="id-7b8bec1683d944789bb5f0e992ec6306" targetConnections="id-46c01006f9fc4118a50659c2db185fef" archimateElement="id-19338f1c586645d1b0ae5b29e2eb0735">
             <bounds x="1692" y="132" width="121" height="70"/>
@@ -570,7 +570,7 @@
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-cf3fa67061f9444da0e1e08213658db7" targetConnections="id-38a6f9e6c7084c87862e230cd7de70e2" archimateElement="id-3ce51cd04c8b43de96efe7414168c816">
-            <bounds x="2004" y="225" width="133" height="73"/>
+            <bounds x="2004" y="225" width="121" height="73"/>
             <sourceConnection xsi:type="archimate:Connection" id="id-3f07ee4f01f1494eaa0680a0e6cd1848" source="id-cf3fa67061f9444da0e1e08213658db7" target="id-a50bf3cfb2ca4bda958461c4282446ac" archimateRelationship="id-98e7ab208bcf4570894181079706e5a3"/>
             <child xsi:type="archimate:DiagramObject" id="id-15d52227f3ec412b9765f2db101af316" archimateElement="id-2789e4c980b0425798264e0e0efabcf8">
               <bounds x="-228" y="24" width="15" height="15"/>
